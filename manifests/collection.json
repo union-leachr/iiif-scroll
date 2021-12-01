@@ -5,9 +5,5 @@
   },
   "type" : "Collection",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
-  "items" : [ {
-    "@type" : "sc:Manifest",
-    "@id" : "https://union-leachr.github.io/iiif-scroll/manifests/1000manifest.json",
-    "label" : "Whole scroll"
-  } ]
+  "items" : [ ]
 }
