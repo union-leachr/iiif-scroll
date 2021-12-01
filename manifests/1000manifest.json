@@ -29,12 +29,12 @@
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
-          "@id" : "https://releach.github.io/iiif/images/scroll_1000/full/full/0/default.jpg",
+          "@id" : "https://union-leachr.github.io/iiif-scroll/images/scroll_1000/full/full/0/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
           "service" : {
             "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://releach.github.io/iiif/images/scroll_1000",
+            "@id" : "https://union-leachr.github.io/iiif-scroll/images/scroll_1000",
             "profile" : "http://iiif.io/api/image/2/level0.json"
           },
           "height" : 1000,
