@@ -26,7 +26,7 @@
   } ],
   "profile" : "http://iiif.io/api/image/2/level0.json",
   "width" : 28505,
-  "@id" : "https://union-leachr.github.io/iiif/scroll_1000",
+  "@id" : "https://union-leachr.github.io/iiif-scroll/images/scroll_1000",
   "@context" : "http://iiif.io/api/image/2/context.json",
   "height" : 1000
 }
