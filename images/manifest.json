@@ -1,0 +1,66 @@
+{
+  "id" : "https://union-leachr.github.io/iiif-scroll/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in union-leachr/iiif-scroll project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 28505,
+    "id" : "https://union-leachr.github.io/iiif-scroll/images/Scroll_whole_1000px-high/canvas/",
+    "label" : {
+      "none" : [ "Scroll_whole_1000px-high" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://union-leachr.github.io/iiif-scroll/images/Scroll_whole_1000px-high/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://union-leachr.github.io/iiif-scroll/images/Scroll_whole_1000px-high/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 891,
+              "height" : 32
+            }, {
+              "width" : 1782,
+              "height" : 63
+            }, {
+              "width" : 3564,
+              "height" : 125
+            }, {
+              "width" : 7127,
+              "height" : 250
+            }, {
+              "width" : 14253,
+              "height" : 500
+            }, {
+              "width" : 28505,
+              "height" : 1000
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 28505,
+            "@id" : "https://union-leachr.github.io/iiif-scroll/images/Scroll_whole_1000px-high",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1000
+          } ],
+          "format" : "image/jpeg",
+          "width" : 28505,
+          "id" : "https://union-leachr.github.io/iiif-scroll/images/Scroll_whole_1000px-high/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1000
+        },
+        "target" : "https://union-leachr.github.io/iiif-scroll/images/Scroll_whole_1000px-high/canvas/"
+      } ]
+    } ],
+    "height" : 1000
+  } ]
+}
